@@ -26,16 +26,4 @@
 
 ## Getting Started
 
-### This fun and informative site can be found at <a href="https://derkche.github.io/MyAmericanGuide/">https://derkche.github.io/MyAmericanGuide/</a>. Enjoy!
-
-## Team Members:
-
-### - Derek Chee
-
-### - Babatundesalisu
-
-### - Mark Lech
-
-### - Vale Rideout
-
-### - Dan Vickey
+### This fun and informative site can be found at <a href="https://mlech413.github.io/my-american-guide/. Enjoy!
