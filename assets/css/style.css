@@ -1,0 +1,138 @@
+body {
+    text-align: center;
+    color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-size: cover;
+}
+
+/* video loop for the background */
+#bgVideo {
+    position: fixed;
+    right: 0;
+    top: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+h1 {
+    margin: 14px;
+    font-family: 'Shrikhand', cursive;
+    letter-spacing: 2px;
+    color: #ffffff;
+    text-shadow: 3px 3px 4px black;
+}
+
+h2 {
+    font-family: 'Source Serif Pro', serif;
+    color: black;
+}
+
+h3 {
+    font-family: 'Source Serif Pro', serif;
+}
+
+.card-body {
+    margin-top: 4px;
+}
+
+.selectForCity {
+    font-family: 'Source Serif Pro', serif;
+}
+
+.statePicked {
+    font-family: 'Source Serif Pro', serif;
+}
+
+subtitle {
+    font-family: 'Source Serif Pro', serif;
+}
+
+#dropShadow {
+    text-shadow: 2px 2px 4px black;
+}
+
+/* a: attributes to remove hyperlink formatting */
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+
+/* API cards */
+.card {
+    opacity: .87;
+    margin: 15px 0 5px 0;
+}
+.card:hover {
+    opacity: 1;
+    background-color: azure;
+}
+
+#cardsub {
+    opacity: .87;
+    margin: 0;
+}
+
+
+/* dropdown boxes */
+#stateDropdown {
+    margin: 10px;
+    font-size: 120%;
+    font-family: 'Source Serif Pro', serif;
+}
+#cityDropdown {
+    margin: 10px;
+    font-size: 120%;
+    font-family: 'Source Serif Pro', serif;
+}
+
+
+#map {
+    width: 100%;
+}
+
+th td {
+    text-align: left;
+}
+
+#newsCard {
+    font-size: 90%;
+    text-align: left;
+}
+
+#wiki-card {
+    font-size: 90%;
+    text-align: left;
+}
+
+#eventDescription {
+    font-size: 90%;
+    text-align: left;
+    padding: 10px;
+}
+
+#eventTitle {
+    padding-top: 15px;
+}
+
+#landmarkCard {
+    font-size: 90%;
+}
+
+#yelpCard {
+    font-size: 90%;
+    text-align: left;
+}
+
+#yelpPTag {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+
